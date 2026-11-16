@@ -1,0 +1,24 @@
+README-2023.md
+  h_f1b9066eb9899c 1-6
+README.md
+  h_f1b9066eb9899c 10-15,61-85,92,100-103
+examples/synthetic_calibration.csv
+  h_f1b9066eb9899c 1-61
+requirements.txt
+  h_f1b9066eb9899c 4
+tests/test_calibrate.py
+  h_f1b9066eb9899c 1-18
+trustissues/calibrate.py
+  h_f1b9066eb9899c 1-83
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "8c58ca753956d663af36f9fba2d309f6af3cfbcf",
+  "prompts": {},
+  "humans": {
+    "h_f1b9066eb9899c": {
+      "author": "fh1m <fahim.2002.faisal@gmail.com>"
+    }
+  }
+}
